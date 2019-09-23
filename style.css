@@ -1,0 +1,49 @@
+td  {
+background-color: gray;
+color: white;
+padding: 10px
+}
+
+th  {
+    background-color: #EDEDED;
+    height: 50px;
+    padding: 5px
+    }
+
+tr {
+    text-align: center
+}
+
+td {
+    width: 50px;
+}
+
+.group {
+    background-color: #EDEDED;
+    height: 50px;
+}
+
+.BO {
+    background-color:orange;
+    color: green;
+}
+
+.BP {
+    background-color:#F06AF0;
+    color: black;
+}
+
+.BB {
+    background-color: #3AB8FD;
+    color: black;
+}
+
+.BY {
+    background-color: #FDDF3A;
+    color: black;
+}
+  
+  td:hover {
+    background-color: #A5FA1E;
+    cursor: pointer;
+  }
